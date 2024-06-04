@@ -27,10 +27,11 @@
 To run this project, navigate to:
 
 To view project, navigate to https://rmburgos.github.io/portfolio/
+<!img src="https://github.com/rmburgos/employee-payroll-tracker/assets/97217944/1486bad3-b736-49ff-93b0-fd22e8a36e39">
+<img width="1728" alt="payroll_tracker2" src="https://github.com/rmburgos/employee-payroll-tracker/assets/97217944/a2e6a6d7-e725-46de-ba21-4807823807b8">
 
 
 ## Usage
-![rachelburgos_portfolio](https://github.com/rmburgos/employee-payroll-tracker/assets/97217944/bb843e8f-ff6d-4f48-a592-4d534d64300e)
 
 
 ## Built With
