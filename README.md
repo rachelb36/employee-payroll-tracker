@@ -26,7 +26,7 @@
 
 To run this project, navigate to:
 
-To view project, navigate to https://rmburgos.github.io/portfolio/
+To view project, navigate to https://rmburgos.github.io/employee-payroll-tracker/
 
 
 ## Usage
@@ -46,7 +46,7 @@ To view project, navigate to https://rmburgos.github.io/portfolio/
 
 
 Tutorial instructions found here
-
+- <https://github.com/coding-boot-camp/curly-potato>
 
 Additional resources include:
 - <https://www.hostinger.com/tutorials/web-developer-portfolio>
