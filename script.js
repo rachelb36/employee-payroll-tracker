@@ -55,7 +55,7 @@ const displayAverageSalary = function (employeesArray) {
   );
 };
 
-// Function to get a random employee
+// Function to get a random employee for drawing
 const getRandomEmployee = function (employeesArray) {
   const randomIndex = Math.floor(Math.random() * employeesArray.length);
   const randomEmployee = employeesArray[randomIndex];

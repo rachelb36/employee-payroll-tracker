@@ -70,7 +70,7 @@ td {
 }
 
 tbody tr:nth-child(even) {
-  background-color: hsl(223, 64%, 90%);
+  background-color: #bacbcd;
 }
 
 .card-footer {
