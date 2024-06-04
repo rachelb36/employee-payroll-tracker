@@ -5,7 +5,7 @@
 ## Description
 
 - BOOTCAMP MODULE 3 CHALLENGE 
-- Created a Professional Portfolio Page
+- Created an Employee Payroll Tracker application
 - Used HTML and CSS
 - Modified Images with Adobe Photoshop
 
