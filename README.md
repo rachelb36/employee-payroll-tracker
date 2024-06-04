@@ -27,25 +27,26 @@
 To run this project, navigate to:
 
 To view project, navigate to https://rmburgos.github.io/portfolio/
-<!img src="https://github.com/rmburgos/employee-payroll-tracker/assets/97217944/1486bad3-b736-49ff-93b0-fd22e8a36e39">
-<img width="1728" alt="payroll_tracker2" src="https://github.com/rmburgos/employee-payroll-tracker/assets/97217944/a2e6a6d7-e725-46de-ba21-4807823807b8">
 
 
 ## Usage
+<img width="1728" alt="payroll_tracker1" src="https://github.com/rmburgos/employee-payroll-tracker/assets/97217944/a3aceb32-3051-4f5f-8f3a-4294122d3e7c">
+<img width="1728" alt="payroll_tracker2" src="https://github.com/rmburgos/employee-payroll-tracker/assets/97217944/a2e6a6d7-e725-46de-ba21-4807823807b8">
 
 
 ## Built With
+* JavaScript
 * CSS
 * HTML
 
 ## Credits
 
-**This project ued starter code provided by the instructors and TAs of the Rice University Coding Bootcamp, including Mateo Wallace, Mark Alfano, Gerard Mennella**
+**This project used starter code provided by the instructors and TAs of the Rice University Coding Bootcamp, including Mateo Wallace, Mark Alfano, Gerard Mennella**
 
 
 
 Tutorial instructions found here
-[Tutorial link](https://bootcampspot.instructure.com/courses/6708/assignments/80706?module_item_id=1263985)
+
 
 Additional resources include:
 - <https://www.hostinger.com/tutorials/web-developer-portfolio>
