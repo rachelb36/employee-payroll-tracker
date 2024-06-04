@@ -29,7 +29,7 @@ header {
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
 }
-
+/* table for the employees array */
 h2 {
   text-align: center;
 }
@@ -68,7 +68,7 @@ td {
   text-align: center;
   border: 4px solid black;
 }
-
+/* modifies the alternating rows for the generated table */
 tbody tr:nth-child(even) {
   background-color: #bacbcd;
 }
@@ -90,7 +90,7 @@ tbody tr:nth-child(even) {
   display: block;
   clear: both;
 }
-
+/* styling for button */
 .btn {
   border: none;
   background-color: hsl(223, 74%, 48%);

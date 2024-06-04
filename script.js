@@ -5,7 +5,7 @@ const addEmployeesBtn = document.querySelector("#add-employees-btn");
 const collectEmployees = function () {
   const employeesArray = [];
   let addAnother = true;
-
+  //run the while loop while user wants to continue to add employees
   while (addAnother) {
     let firstName = prompt("Enter the employee's first name:");
     while (!firstName || firstName.trim() === "") {
@@ -14,7 +14,7 @@ const collectEmployees = function () {
       );
       firstName = prompt("Enter the employee's first name:");
     }
-
+    //trims trailing spaces
     let lastName = prompt("Enter the employee's last name:");
     while (!lastName || lastName.trim() === "") {
       alert(
@@ -22,7 +22,7 @@ const collectEmployees = function () {
       );
       lastName = prompt("Enter the employee's last name:");
     }
-
+    //converts salary to a number
     let salary = parseFloat(prompt("Enter the employee's salary:"));
     if (isNaN(salary)) {
       salary = 0;
